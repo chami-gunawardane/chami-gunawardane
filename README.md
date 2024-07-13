@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Chami Gunawardane</h1>
-<h3 align="center">A Software developer, passionate for frontend development.</h3>
+<h3 align="center">A Software developer, passionate for UI/UX and Frontend development.</h3>
 
 -----------------------------------------------------------------------------------------
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21356704&label=Profile%20views&color=0e75b6&style=flat" alt="it21356704" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chami-gunawardane&label=Profile%20views&color=0e75b6&style=flat" alt="chami-gunawardane" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-inthisham" alt="mohamed-inthisham" /></a> </p>-->
 
 - 🔭 I’m currently studing at SLIIT
 
-- 🌱 I’m currently learning **Java/react**
+- 🌱 I’m currently learning **Angular/React**
 
-- 💬 Ask me about **JAVA/SPRINGBOOT/REACT/DOCKER/JAVA SCRIPT/KOTLIN/MYSQL/HTML/CSS**
+- 💬 Ask me about **JAVA/BOOTSTRAP/REACT/TAILWIND/JAVA SCRIPT/ANGULAR/HTML/CSS**
 
 - 📫 How to reach me **chamigunawardane@gmail.com**
 
@@ -27,9 +27,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 </div>  
 
 
@@ -66,9 +63,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
 
